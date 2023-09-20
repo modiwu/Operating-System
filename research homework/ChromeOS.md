@@ -14,10 +14,10 @@
 
 #### new/special features
 
--  one of the most secure operating systems available. [built-in virus protection system]
-- requires minimal hardware support
+- Secure: one of the most secure operating systems available. [built-in virus protection system]
+- Simple and Fast: works fast and boots up in mere seconds. [requires minimal hardware support]
 
-- relies on an internet connection [ChromeOS was used to primarily run web applications]
+- Cloud-based: relies on an internet connection [ChromeOS was used to primarily run web applications]
 
 #### comparing with Linux/Windows
 
